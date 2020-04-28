@@ -1,1 +1,1 @@
-{"SiteTextLogo":"Miracle Worker","ContactEmail":"info@<?php echo $_SERVER['HTTP_HOST']; ?>","pixel_id":"1213","CurrencySymbol":"$","FacebookCurrency":"USD"}
+{"SiteTextLogo":"Miracle Worker","ContactEmail":"info@<?php echo $_SERVER['HTTP_HOST']; ?>","pixel_id":"1389042947929316","CurrencySymbol":"$","FacebookCurrency":"USD"}
